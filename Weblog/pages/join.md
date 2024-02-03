@@ -3,6 +3,6 @@ Type: Page
 Title: Join
 ---
 
-## Time to find your Prami Partner!
+## Entries are currently closed!
 
-<div data-paperform-id="pramipartners"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
+Thanks to everyone who joined. The next Prami Partners event will be announced in due time over at [@pramipartners@social.lol](https://social.lol/@pramipartners) on Mastodon!
