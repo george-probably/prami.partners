@@ -1,6 +1,7 @@
 ---
 Type: Page
 Title: FAQ
+Location: /archive/1/faq
 ---
 
 ## Frequently Asked Questions
