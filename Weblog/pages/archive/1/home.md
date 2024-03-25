@@ -18,4 +18,4 @@ Though the guide value for any gifts is **$30/€30**, please note it is just th
 
 We have a [FAQ](/archive/1/faq) if you want to know more, or just contact: [pramipartners@omg.lol](mailto:pramipartners@omg.lol).
 
-Note: Though not officially affiliated with omg.lol, this would not have happened without Adam's support and the amazing community.ß
+Note: Though not officially affiliated with omg.lol, this would not have happened without Adam's support and the amazing community.
