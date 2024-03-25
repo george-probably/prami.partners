@@ -1,5 +1,5 @@
 ---
-Type: Page
+Type: Archive 1
 Title: FAQ
 Location: /archive/1/faq
 ---

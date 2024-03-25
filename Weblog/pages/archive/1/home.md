@@ -1,5 +1,5 @@
 ---
-Type: Page
+Type: Archive 1
 Title: Home
 Location: /archive/1
 ---
