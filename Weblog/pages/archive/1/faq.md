@@ -1,6 +1,6 @@
 ---
 Type: Archive 1
-Title: FAQ
+Title: PP1 - FAQ
 Location: /archive/1/faq
 ---
 

@@ -1,6 +1,6 @@
 ---
 Type: Archive 1
-Title: Home
+Title: PP1 - Home
 Location: /archive/1
 ---
 
