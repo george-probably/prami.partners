@@ -48,7 +48,7 @@ Type: Template
 
 <div class="flex-column">
 
-<div class="nav-box"> [Home](/archive/1), join, [FAQ](/arcive/1/faqß) </div>
+<div class="nav-box"> {navigation} </div>
 
 <div class="box">
 {body}
