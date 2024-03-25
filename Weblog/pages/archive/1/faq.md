@@ -1,5 +1,6 @@
 ---
-Type: Archive 1
+Type: Page
+Template: Archive 1 Template
 Title: PP1 - FAQ
 Location: /archive/1/faq
 ---

@@ -1,5 +1,6 @@
 ---
-Type: Archive 1
+Type: Page
+Template: Archive 1 Template
 Title: PP1 - Home
 Location: /archive/1
 ---
