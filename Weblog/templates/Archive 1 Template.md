@@ -20,7 +20,7 @@ Type: Template
 @import url('https://fonts.bunny.net/css?family=open-sans:500,800&display=swap');
 :root {
     --foreground: #eee;
-    --background: #288cf0;
+    --background: #C8A2C8;
     --link: #eee;
     --unimportant: #ebebeb;
     --articleBG: #BB8BBB;
@@ -48,7 +48,7 @@ Type: Template
 
 <div class="flex-column">
 
-<div class="nav-box"> {navigation} </div>
+<div class="nav-box"> [Home](/archive/1), join, [FAQ](/arcive/1/faqß) </div>
 
 <div class="box">
 {body}
