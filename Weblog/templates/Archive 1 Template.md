@@ -48,7 +48,12 @@ Type: Template
 
 <div class="flex-column">
 
-<div class="nav-box"> {navigation} </div>
+<div class="nav-box"> <nav id="weblog-navigation">
+<ul>
+<li><a href="/archive/1/home"> Home </a></li>
+<li><a href="/archive/1/faq"> FAQ </a></li>
+</ul>
+</div>
 
 <div class="box">
 {body}

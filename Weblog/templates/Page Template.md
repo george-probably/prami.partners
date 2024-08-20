@@ -10,8 +10,8 @@ Type: Template
 <meta charset="utf-8">
 <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/george-probably/prami.partners/main/Images/PramiPartners.svg">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#C8A2C8">
-<meta name="apple-mobile-web-app-status-bar-style" content="#C8A2C8">
+<meta name="theme-color" content="#659FA5">
+<meta name="apple-mobile-web-app-status-bar-style" content="#659FA5">
 <link rel="stylesheet" type="text/css" href="/style.css">
 <link rel="me" href="https://social.lol/@pramipartners">
 <style>
@@ -20,21 +20,21 @@ Type: Template
 @import url('https://fonts.bunny.net/css?family=open-sans:500,800&display=swap');
 :root {
     --foreground: #eee;
-    --background: #C8A2C8;
+    --background: #659FA5;
     --link: #eee;
     --unimportant: #ebebeb;
-    --articleBG: #BB8BBB;
-    --articleBorder: #9A5B9A;
+    --articleBG: #3F888F;
+    --articleBorder: #387A80;
 }
 
 @media (prefers-color-scheme: dark){
     :root {
     --foreground: #eee;
-    --background: #9A5B9A;
+    --background: #387A80;
     --link: #eee;
     --unimportant: #ebebeb;
-    --articleBG: #BB8BBB;
-    --articleBorder: #C8A2C8;
+    --articleBG: #3F888F;
+    --articleBorder: #659FA5;
     }
 }
 </style>
