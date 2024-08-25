@@ -3,7 +3,7 @@ Type: Page
 Title: Home
 ---
 
-## Welcome to Prami Partners!
+## Welcome to ~~Prami~~ Photo Partners!
 
 Prami Partners is a exchange for the omg.lol community! Think of it like a Secret Santa, but year-round!
 
