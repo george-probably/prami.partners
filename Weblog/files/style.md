@@ -200,14 +200,14 @@ hr {
     background: var(--articleBG);
     border-width: 5px;
     border-style: solid;
-    border-image: linear-gradient(214deg, var(--articleBorder) 0%, var(--articleBorder) 50%, var(--articleBG) 50%, var(--articleBG) 54%, var(--articleBorder) 54%, var(--articleBorder) 100%) 1;
+    border-color: var(--articleBorder);
 }
 
 .nav-box {
     background: var(--articleBG);
     border-width: 5px;
     border-style: solid;
-    border-image: linear-gradient(177deg, var(--articleBorder) 0%, var(--articleBorder) 50%, var(--articleBG) 50%, var(--articleBG) 54%, var(--articleBorder) 54%, var(--articleBorder) 100%) 1;
+    border-color: var(--articleBorder);
 }
 
 .box:not(:first-of-type) {
