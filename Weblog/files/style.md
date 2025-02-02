@@ -241,6 +241,10 @@ margin-top: 20px;
   line-height: 150%;
 }
 
+.Uc2NEf {
+    background: #ffffff;
+}
+
 aside {
     background: var(--articleBorder);
     padding: 10px;
