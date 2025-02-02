@@ -8,7 +8,7 @@ Title: FAQ
 > **What is Prami Partners?**  
 Prami Partners is an exchange group for [omg.lol members](https://home.omg.lol/referred-by/georgeprobably). Keep an eye out, there's more coming soon!
 
-> **What is special about Photo Partners?**
+> **What is special about Photo Partners?**  
 Unlike the first Prami Partners event, this is fully digital! All you need is an omg.lol account, and the willingness to take some photographs!
 
 > **Is Prami Partners a dating site?**  
