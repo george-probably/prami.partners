@@ -37,6 +37,9 @@ Type: Template
     --articleBorder: #659FA5;
     }
 }
+
+.Uc2NEf {background: #ffffff;}
+
 </style>
 </head>
 
