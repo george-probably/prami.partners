@@ -208,6 +208,7 @@ hr {
     border-width: 5px;
     border-style: solid;
     border-color: var(--articleBorder);
+    box-shadow: 10px 10px 5px 5px rgba(0, 0, 0, .2);
 }
 
 .box:not(:first-of-type) {
